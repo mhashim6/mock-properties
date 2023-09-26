@@ -1,0 +1,48 @@
+{
+  "properties": [
+    {
+      "propertyID": "RUH-SAH-102",
+      "bedrooms": 2,
+      "floorNumber": 1,
+      "bathrooms": 2,
+      "url": "https://stellastays.com/suite/4/stella-stays-palm-jumeirah-exceptional-beach-villa-private-pool?guests=1",
+      "img": "https://stellastays.com/static/media/header-logo-en-mobile.d22578fa.svg"
+    },
+    {
+      "propertyID": "RUH-SAH-103",
+      "bedrooms": 1,
+      "floorNumber": 1,
+      "bathrooms": 1,
+      "url": "https://stellastays.com/suite/5/gorgeous-beachfront-villa-5bdr-private-pool?guests=1",
+      "img": "https://stellastays.com/static/media/header-logo-en-mobile.d22578fa.svg"
+    },
+    {
+      "propertyID": "RUH-SAH-104",
+      "bedrooms": 4,
+      "floorNumber": 12,
+      "bathrooms": 5,
+      "url": "https://stellastays.com/suite/7/breathtaking-beachfront-villa-with-private-pool?guests=1",
+      "img": "https://stellastays.com/static/media/header-logo-en-mobile.d22578fa.svg"
+    }
+  ],
+  "guests": [
+    {
+      "username": "mhashim6",
+      "email": "msg@mhashim6.me",
+      "city": "Cairo",
+      "actions": [
+        { "id": "delete-user", "name": "Delete User" },
+        { "id": "notify-user", "name": "Notify User" }
+      ]
+    },
+    {
+      "username": "hamada",
+      "email": "msg@hamada.me",
+      "city": "Giza",
+      "actions": [
+        { "id": "delete-user", "name": "Delete User" },
+        { "id": "notify-user", "name": "Notify User" }
+      ]
+    }
+  ]
+}
