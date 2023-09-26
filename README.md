@@ -7,14 +7,17 @@
 ./setup.sh
 ```
 
-### Start GraphQL Server
+### Start REST Server
 #### Run
 ```bash
 ./serve.sh
 ```
 
-### Inspect GraphQL Playground
+### Inspect REST API data
 #### Visit 
 ```
-http://localhost:3000
+http://localhost:3000/properties
+```
+```
+http://localhost:3000/guests
 ```
