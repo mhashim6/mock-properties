@@ -5,7 +5,10 @@
       "bedrooms": 2,
       "floorNumber": 1,
       "bathrooms": 2,
-      "url": "https://stellastays.com/suite/4/stella-stays-palm-jumeirah-exceptional-beach-villa-private-pool?guests=1",
+      "url": {
+        "address": "https://stellastays.com/suite/4/stella-stays-palm-jumeirah-exceptional-beach-villa-private-pool?guests=1",
+        "text": "Property Link"
+      },
       "img": "https://stellastays.com/static/media/header-logo-en-mobile.d22578fa.svg"
     },
     {
@@ -13,7 +16,10 @@
       "bedrooms": 1,
       "floorNumber": 1,
       "bathrooms": 1,
-      "url": "https://stellastays.com/suite/5/gorgeous-beachfront-villa-5bdr-private-pool?guests=1",
+      "url": {
+        "address": "https://stellastays.com/suite/5/gorgeous-beachfront-villa-5bdr-private-pool?guests=1",
+        "text": "Property Link"
+      },
       "img": "https://stellastays.com/static/media/header-logo-en-mobile.d22578fa.svg"
     },
     {
@@ -21,7 +27,10 @@
       "bedrooms": 4,
       "floorNumber": 12,
       "bathrooms": 5,
-      "url": "https://stellastays.com/suite/7/breathtaking-beachfront-villa-with-private-pool?guests=1",
+      "url": {
+        "address": "https://stellastays.com/suite/7/breathtaking-beachfront-villa-with-private-pool?guests=1",
+        "text": "Property Link"
+      },
       "img": "https://stellastays.com/static/media/header-logo-en-mobile.d22578fa.svg"
     }
   ],
